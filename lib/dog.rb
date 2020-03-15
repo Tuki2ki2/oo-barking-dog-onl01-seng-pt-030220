@@ -1,5 +1,5 @@
 class Dog
-  def bark =(sound)
+  def bark=(sound)
     @this_is_sound = sound
   end
 
