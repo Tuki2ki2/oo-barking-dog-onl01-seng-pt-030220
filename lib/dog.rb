@@ -1,5 +1,5 @@
 class Dog
-def name(input)
+def name=(input)
   @this_is_dog_name = input
 end
 def name
