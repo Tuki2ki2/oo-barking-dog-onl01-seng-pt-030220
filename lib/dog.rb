@@ -11,4 +11,4 @@ end
 
 snoopy = Dog.net
 snoopy.bark
-snoopy.bark 
+puts snoopy.bark 
