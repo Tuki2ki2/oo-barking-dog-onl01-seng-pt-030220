@@ -10,7 +10,7 @@ def name
   end
 
   def bark
-    @this_is_sound
+    puts @this_is_sound
   end
 end
 
