@@ -8,6 +8,6 @@ class Dog
   end
 end
 
-snoopy = Dog.new
-snoopy.bark = "woof"
+Fido = Dog.new
+Fido.bark = "woof!"
 puts snoopy.bark
