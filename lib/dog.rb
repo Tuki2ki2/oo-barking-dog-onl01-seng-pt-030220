@@ -6,7 +6,6 @@ class Dog
   def bark
     @this_is_sound
   end
-
 end
 
 snoopy = Dog.new
