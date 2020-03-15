@@ -1,4 +1,4 @@
-l# Your code goes here!
+# Your code goes here!
 class Dog
   def bark=(sound)
     @this_is_bark = sound
@@ -11,4 +11,4 @@ end
 
 snoopy = Dog.net
 snoopy.bark
-puts snoopy.bark 
+puts snoopy.bark
