@@ -10,4 +10,4 @@ end
 
 Fido = Dog.new
 Fido.bark = "woof!"
-puts snoopy.bark
+puts Fido.bark
