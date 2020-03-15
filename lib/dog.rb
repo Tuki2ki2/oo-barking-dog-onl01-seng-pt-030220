@@ -1,4 +1,10 @@
 class Dog
+def name(input)
+  @this_is_dog_name = input
+end
+def name
+   @this_is_dog_name
+ end    
   def bark=(sound)
     @this_is_sound = sound
   end
