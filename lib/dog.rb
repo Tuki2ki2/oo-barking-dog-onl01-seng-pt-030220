@@ -5,12 +5,9 @@ end
 def name
    @this_is_dog_name
  end
-  def bark=(sound)
-    @this_is_sound = sound
-  end
 
   def bark
-    puts @this_is_sound
+    puts "woof!"
   end
 end
 
