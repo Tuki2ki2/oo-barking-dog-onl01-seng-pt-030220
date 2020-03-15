@@ -9,6 +9,7 @@ class Dog
   end
 end
 
-snoopy = Dog.net
+snoopy = Dog.new
+
 snoopy.bark
 puts snoopy.bark
