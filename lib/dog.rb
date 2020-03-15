@@ -4,7 +4,7 @@ def name(input)
 end
 def name
    @this_is_dog_name
- end    
+ end
   def bark=(sound)
     @this_is_sound = sound
   end
@@ -15,5 +15,6 @@ def name
 end
 
 Fido = Dog.new
+Fido.name = "Fido"
 Fido.bark = "woof!"
 puts Fido.bark
